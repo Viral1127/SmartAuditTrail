@@ -1,0 +1,4 @@
+D:\SmartAuditTrail\SmartAuditTrail\obj\Debug\net8.0\SmartAuditTrail.GeneratedMSBuildEditorConfig.editorconfig
+D:\SmartAuditTrail\SmartAuditTrail\obj\Debug\net8.0\SmartAuditTrail.AssemblyInfoInputs.cache
+D:\SmartAuditTrail\SmartAuditTrail\obj\Debug\net8.0\SmartAuditTrail.AssemblyInfo.cs
+D:\SmartAuditTrail\SmartAuditTrail\obj\Debug\net8.0\SmartAuditTrail.csproj.CoreCompileInputs.cache

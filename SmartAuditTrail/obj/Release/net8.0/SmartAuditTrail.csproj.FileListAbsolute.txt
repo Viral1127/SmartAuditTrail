@@ -1,0 +1,12 @@
+D:\SmartAuditTrail\SmartAuditTrail\obj\Release\net8.0\SmartAuditTrail.GeneratedMSBuildEditorConfig.editorconfig
+D:\SmartAuditTrail\SmartAuditTrail\obj\Release\net8.0\SmartAuditTrail.AssemblyInfoInputs.cache
+D:\SmartAuditTrail\SmartAuditTrail\obj\Release\net8.0\SmartAuditTrail.AssemblyInfo.cs
+D:\SmartAuditTrail\SmartAuditTrail\obj\Release\net8.0\SmartAuditTrail.csproj.CoreCompileInputs.cache
+D:\SmartAuditTrail\SmartAuditTrail\bin\Release\net8.0\SmartAuditTrail.deps.json
+D:\SmartAuditTrail\SmartAuditTrail\bin\Release\net8.0\SmartAuditTrail.dll
+D:\SmartAuditTrail\SmartAuditTrail\bin\Release\net8.0\SmartAuditTrail.pdb
+D:\SmartAuditTrail\SmartAuditTrail\obj\Release\net8.0\SmartAuditTrail.csproj.AssemblyReference.cache
+D:\SmartAuditTrail\SmartAuditTrail\obj\Release\net8.0\SmartAuditTrail.dll
+D:\SmartAuditTrail\SmartAuditTrail\obj\Release\net8.0\refint\SmartAuditTrail.dll
+D:\SmartAuditTrail\SmartAuditTrail\obj\Release\net8.0\SmartAuditTrail.pdb
+D:\SmartAuditTrail\SmartAuditTrail\obj\Release\net8.0\ref\SmartAuditTrail.dll

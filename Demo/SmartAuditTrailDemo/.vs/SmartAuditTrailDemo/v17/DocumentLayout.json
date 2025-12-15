@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SmartAuditTrail\\Demo\\SmartAuditTrailDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B83FCBD7-7D57-4306-B065-887BAFCB6D71}|SmartAuditTrailDemo.csproj|d:\\smartaudittrail\\demo\\smartaudittraildemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83FCBD7-7D57-4306-B065-887BAFCB6D71}|SmartAuditTrailDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83FCBD7-7D57-4306-B065-887BAFCB6D71}|SmartAuditTrailDemo.csproj|d:\\smartaudittrail\\demo\\smartaudittraildemo\\demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83FCBD7-7D57-4306-B065-887BAFCB6D71}|SmartAuditTrailDemo.csproj|solutionrelative:demodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83FCBD7-7D57-4306-B065-887BAFCB6D71}|SmartAuditTrailDemo.csproj|d:\\smartaudittrail\\demo\\smartaudittraildemo\\demoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83FCBD7-7D57-4306-B065-887BAFCB6D71}|SmartAuditTrailDemo.csproj|solutionrelative:demoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 285,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoDbContext.cs",
+              "DocumentMoniker": "D:\\SmartAuditTrail\\Demo\\SmartAuditTrailDemo\\DemoDbContext.cs",
+              "RelativeDocumentMoniker": "DemoDbContext.cs",
+              "ToolTip": "D:\\SmartAuditTrail\\Demo\\SmartAuditTrailDemo\\DemoDbContext.cs",
+              "RelativeToolTip": "DemoDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:03:07.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoEntity.cs",
+              "DocumentMoniker": "D:\\SmartAuditTrail\\Demo\\SmartAuditTrailDemo\\DemoEntity.cs",
+              "RelativeDocumentMoniker": "DemoEntity.cs",
+              "ToolTip": "D:\\SmartAuditTrail\\Demo\\SmartAuditTrailDemo\\DemoEntity.cs",
+              "RelativeToolTip": "DemoEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:02:21.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SmartAuditTrail\\Demo\\SmartAuditTrailDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SmartAuditTrail\\Demo\\SmartAuditTrailDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:59:32.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
